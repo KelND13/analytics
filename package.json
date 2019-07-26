@@ -1,0 +1,11 @@
+{
+  "name": "testanalytics",
+  "version": "1.0.0",
+  "description": "Analytics gatherer",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kelly Dickerson, Jane Seidel",
+  "license": "ISC"
+}
