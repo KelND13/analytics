@@ -5,7 +5,7 @@
 
 const express = require('express');
 const app = express();
-const pageViews = require('./lib/pagviews');
+const pageViews = require('./lib/pageviews');
 const port = process.env.PORT || 3000;
 const server = app.listen(port, () => {
    console.log(`Ready to serve some analytics on port ${server.address().port}`);
@@ -22,7 +22,7 @@ app.get('/health', function(req, res){
 
 app.get('/api/v1/pageviews', (req, res) => {
     pageViews.getWhatsNewsArticles(function(err, articles) {
-        if (err) res.error({"error": err});
+        if (err) console.log(err);
         res.json(articles);
     });
 });
