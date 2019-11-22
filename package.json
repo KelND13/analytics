@@ -10,6 +10,9 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
-    "exprss": "0.0.1-security"
+    "exprss": "0.0.1-security",
+    "nconf": "^0.10.0",
+    "request": "^2.88.0",
+    "safe-json-parse": "^4.0.0"
   }
 }
