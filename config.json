@@ -1,0 +1,9 @@
+{
+    "PUBCRAWL_ADD_LIST_URL": "https://int.beta.pubcrawl.ohio.dj01.onservo.com/api/v1/publications/wsj/regions/us/mastheads/WEB/issues/NOW/delta/section/TOP_NEWS",
+    "PUBCRAWL_PACKAGES_URL": "https://int.beta.pubcrawl.ohio.dj01.onservo.com/api/v1/publications/wsj/regions/us/mastheads/WEB/issues/NOW/sections/TOP_NEWS/packages",
+    "PUBCRAWL_BEARER_TOKEN": "",
+    "ADOBE_API_KEY": "b3f396699ff946c59315b3dea50e2a83",
+    "ADOBE_API_SECRET": "c411633a-38be-4391-90e1-f002dba06901",
+    "IPHONE_REPORT_SUITE_ID": "djwsjiphone",
+    "METRIC_ID": "pageviews"
+}
