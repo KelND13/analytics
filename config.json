@@ -4,6 +4,7 @@
     "PUBCRAWL_BEARER_TOKEN": "",
     "ADOBE_API_KEY": "b3f396699ff946c59315b3dea50e2a83",
     "ADOBE_API_SECRET": "c411633a-38be-4391-90e1-f002dba06901",
-    "IPHONE_REPORT_SUITE_ID": "djwsjiphone",
-    "METRIC_ID": "pageviews"
+    "REPORT_SUITE_ID": "djwsjiphone",
+    "ADOBE_COMPANY_ID": "dowjon2",
+    "METRIC_ID": "reports"
 }
