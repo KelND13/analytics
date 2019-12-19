@@ -21,7 +21,7 @@ app.get('/health', function(req, res){
 
 
 app.get('/api/v1/pageviews', (req, res) => {
-    pageViews.getWhatsNewsArticles(function(err, articles) {
+    pageViews.returnPageViews(function(err, articles) {
         if (err) console.log(err);
         res.json(articles);
     });

@@ -6,5 +6,6 @@
     "ADOBE_API_SECRET": "",
     "REPORT_SUITE_ID": "djwsjiphone",
     "ADOBE_COMPANY_ID": "dowjon2",
-    "METRIC_ID": "reports"
+    "METRIC_ID": "reports",
+    "ADOBE_REQUEST": "https://analytics.adobe.io/api/"
 }
